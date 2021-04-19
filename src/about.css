@@ -1,0 +1,57 @@
+.aboutuspage{
+  overflow: hidden;
+  max-width: 1475px;
+}
+.aboutagi{
+  background-size: cover;
+  margin-top: 80px;
+  margin-left: 55px;
+  height: 400px;
+  width: 400px;
+}
+
+.aboutagitext{
+ color: black;
+ text-align: center;
+ margin-top: 100px;
+ margin-left: 120px;
+ word-spacing: 5px;
+ line-height: 2;
+ font-size: 16px;
+
+}
+
+.aboutagitext h1{
+  /* margin-right: 300px; */
+  font-family: Palatino Linotype;
+
+}
+
+.icon{
+  height: 70px;
+  width: 70px;
+  margin-left: 210px;
+  margin-right: 200px;
+  margin-top: 90px;
+}
+
+.aims{
+  padding-top: 20px;
+  padding-left: 205px;
+  padding-right: 175px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ed1b24;
+}
+
+.aims2{
+  padding-top: 20px;
+  padding-left: 60px;
+  padding-right: 0px;
+  color: black;
+  font-size: 14px;
+  word-spacing: 5px;
+  line-height: 2;
+ 
+
+}
